@@ -3,7 +3,7 @@
 > Bonjour à toi ! 👋 Je suis ImIveooo_ / Jean-Baptiste, j'ai 20 ans, étudiant.
 
 - 📚 Etudiant en BTS Systèmes numériques option informatique et réseaux.
-- 🧩 Passionné d’informatique et de transport.
+- 🧩 Passionné d’informatique et de transports.
 - 📞 Pour me contacter : [contact@imiveooo.fr](mailto:contact@imiveooo.fr "contact")
 - 🏙 Nord (59) - Lille
 - 🇫🇷 Je parle français et un peu anglais.
@@ -20,11 +20,11 @@
 
 ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)  ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)  ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)  ![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white)  ![Jetbrains](https://img.shields.io/badge/Jetbrains-143?style=for-the-badge&logo=Jetbrains&logoColor=black&color=black&labelColor=orange)  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)  ![MS](https://img.shields.io/badge/Microsoft-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)  ![Notion](https://img.shields.io/badge/Notion-FFFFFF?style=for-the-badge&logo=notion&logoColor=black)  ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)  ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)  ![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 
-## 🗄 Serveur.
+## 🗄 Logiciels serveur.
 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)  ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)  ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)  ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)  ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)  ![Vmware](https://img.shields.io/badge/VMWare-000000.svg?style=for-the-badge&logo=VMWare&logoColor=white)  ![Proxmox](https://img.shields.io/badge/Proxmox-000000.svg?style=for-the-badge&logo=Proxmox&logoColor=white)
 
-## 💾 Système d'exploitation.
+## 💾 Systèmes d'exploitation.
 
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)  ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)  ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)  ![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white)  ![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)  ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 

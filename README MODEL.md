@@ -7,7 +7,7 @@
 - 📞 Pour me contacter : [contact@imiveooo.fr](mailto:contact@imiveooo.fr "contact")
 - 🏙  Nord (59) - Lille
 - 🇫🇷  Je parle français et un peu anglais.
-- 🧩 Plus spécialiser dans la partie système et réseau que le développement. 
+- 🧩 Plus spécialiser dans la partie système et réseaux que le développement. 
 
 ![rikka.gif](rikka.gif)
 

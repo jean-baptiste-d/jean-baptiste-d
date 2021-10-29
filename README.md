@@ -2,7 +2,7 @@
 
 > Bonjour à toi ! 👋 Je suis ImIveooo_ / Jean-Baptiste, j'ai 20 ans, étudiant.
 
-- 📚 Etudiant en BTS Systèmes numériques option informatique et réseaux.
+- 📚 Étudiant en BTS Systèmes numériques option informatique et réseaux.
 - 🧩 Passionné d’informatique et de transports.
 - 📞 Pour me contacter : [contact@imiveooo.fr](mailto:contact@imiveooo.fr "contact")
 - 🏙  Nord (59) - Lille
@@ -22,7 +22,7 @@
 
 ### 📚 Frameworks.
 
-![SYMFONY](https://img.shields.io/badge/symfony%20-%23000000.svg?&style=for-the-badge&logo=symfony&logoColor=white) ![LARAVEL](https://img.shields.io/badge/laravel%20-%23CC0000.svg?&style=for-the-badge&logo=laravel&logoColor=white) ![CODEIGNITER](https://img.shields.io/badge/codeigniter%20-%23F5792A.svg?&style=for-the-badge&logo=codeigniter&logoColor=white) ![NODEJS](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white) ![BOOTSTRAP](https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white) ![FLUTTER](https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white)
+![CODEIGNITER](https://img.shields.io/badge/codeigniter%20-%23F5792A.svg?&style=for-the-badge&logo=codeigniter&logoColor=white) ![NODEJS](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white) ![BOOTSTRAP](https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white) ![FLUTTER](https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white)
 
 ## 💽 Logiciels.
 

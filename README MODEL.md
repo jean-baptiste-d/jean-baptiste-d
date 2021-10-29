@@ -2,11 +2,12 @@
 
 > Bonjour à toi ! 👋 Je suis ImIveooo_ / Jean-Baptiste, j'ai 20 ans, étudiant.
 
-- 📚 Etudiant en BTS Systèmes numériques option informatique et réseaux.
+- 📚 Étudiant en BTS Systèmes numériques option informatique et réseaux.
 - 🧩 Passionné d’informatique et de transports.
 - 📞 Pour me contacter : [contact@imiveooo.fr](mailto:contact@imiveooo.fr "contact")
-- 🏙 Nord (59) - Lille
-- 🇫🇷 Je parle français et un peu anglais.
+- 🏙  Nord (59) - Lille
+- 🇫🇷  Je parle français et un peu anglais.
+- 🧩 Plus spécialiser dans la partie système et réseau que le développement. 
 
 ![rikka.gif](rikka.gif)
 

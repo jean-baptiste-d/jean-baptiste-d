@@ -1,6 +1,6 @@
 # Hi there 👋
 
-> Bonjour à toi ! 👋 Je suis ImIveooo_ / Jean-Baptiste, j'ai 20 ans, étudiant.
+> Bonjour à toi ! 👋 Je suis ImIveooo_ / Jean-Baptiste, j'ai 21 ans, étudiant.
 
 - 📚 Étudiant en BTS Systèmes numériques option informatique et réseaux.
 - 🧩 Passionné d’informatique et de transports.
@@ -20,7 +20,7 @@
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JAVASCRIPT](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![PowerShell  Script](https://img.shields.io/badge/PowerShell_script-%230078D4.svg?style=for-the-badge&logo=powershell&logoColor=white)
 
-### 📚 Frameworks.
+### 📚 Autres.
 
 ![CODEIGNITER](https://img.shields.io/badge/codeigniter%20-%23F5792A.svg?&style=for-the-badge&logo=codeigniter&logoColor=white) ![NODEJS](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white) ![BOOTSTRAP](https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white) ![FLUTTER](https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white)
 
@@ -42,7 +42,7 @@
 
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
 
-### 📃 Autre.
+### 📃 Divers.
 
 ![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-FFFFFF?style=for-the-badge&logo=notion&logoColor=black) ![SublimeText](https://img.shields.io/badge/SublimeText-000000?style=for-the-badge&logo=SublimeText&logoColor=orange) ![notepad++](https://img.shields.io/badge/notepad++-99C96E?style=for-the-badge&logo=notepadplusplus&logoColor=black) ![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 

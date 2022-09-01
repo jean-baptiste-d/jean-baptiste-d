@@ -1,10 +1,10 @@
 # Hi there 👋
 
-> Bonjour à toi ! 👋 Je suis ImIveooo_ / Jean-Baptiste, j'ai 21 ans, étudiant.
+> Bonjour à toi ! 👋 Je suis Jean-Baptiste, j'ai 21 ans, étudiant.
 
-- 📚 Étudiant en BTS Systèmes numériques option informatique et réseaux.
+- 📚 Étudiant en alternance en tant qu'administrateur système et réseaux.
 - 🧩 Passionné d’informatique et de transports.
-- 📞 Pour me contacter : [contact@imiveooo.fr](mailto:contact@imiveooo.fr "contact")
+- 📞 Pour me contacter : [contact@jb-demaret.fr](mailto:contact@jb-demaret.fr "contact")
 - 🏙  Nord (59) - Lille
 - 🇫🇷  Je parle français et un peu anglais.
 - 🧩 Plus spécialisé dans la partie système et réseaux que le développement. 
@@ -13,7 +13,7 @@
 
 ## 🌍 Réseaux sociaux.
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ImIveooo)  [![Twitter](https://img.shields.io/badge/Twiiter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/ImIveooo)  ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ImIveooo) ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
 
 ## 📋Programmation.
 ### 💻 Langages.

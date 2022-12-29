@@ -13,7 +13,7 @@
 
 ## 🌍 Réseaux sociaux.
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ImIveooo) ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ImIveooo) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/c/ImIveooo)
 
 ## 📋Programmation.
 ### 💻 Langages.
@@ -22,13 +22,15 @@
 
 ### 📚 Autres.
 
-![CODEIGNITER](https://img.shields.io/badge/codeigniter%20-%23F5792A.svg?&style=for-the-badge&logo=codeigniter&logoColor=white) ![NODEJS](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white) ![BOOTSTRAP](https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white) ![FLUTTER](https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white)
+![CODEIGNITER](https://img.shields.io/badge/codeigniter%20-%23F5792A.svg?&style=for-the-badge&logo=codeigniter&logoColor=white) ![NODEJS](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white) ![BOOTSTRAP](https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white) ![cloudinit](https://img.shields.io/badge/cloudinit%20-DE470E.svg?&style=for-the-badge&logo=iCloud&logoColor=white) ![terraform](https://img.shields.io/badge/terraform%20-844fba.svg?&style=for-the-badge&logo=terraform&logoColor=white) ![traefik](https://img.shields.io/badge/Traefik%20-00bdd6.svg?&style=for-the-badge&logo=traefikproxy&logoColor=white) ![ansible](https://img.shields.io/badge/ansible%20-e00.svg?&style=for-the-badge&logo=ansible&logoColor=white)
+
+
 
 ## 💽 Logiciels.
 
 ### 📠 Bureautique.
 
-![MS](https://img.shields.io/badge/Office365-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white) ![libreoffice](https://img.shields.io/badge/LibreOffice-71A353?style=for-the-badge&logo=libreoffice&logoColor=white) ![nextcloud](https://img.shields.io/badge/nextcloud-0080C7?style=for-the-badge&logo=nextcloud&logoColor=white) 
+![MS](https://img.shields.io/badge/Office365-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white) ![onlyoffice](https://img.shields.io/badge/onlyoffice-FF642E?style=for-the-badge&logo=onlyoffice&logoColor=white) ![nextcloud](https://img.shields.io/badge/nextcloud-0080C7?style=for-the-badge&logo=nextcloud&logoColor=white) 
 
 ### 👩‍💻 IDE.
 
@@ -44,7 +46,7 @@
 
 ### 📃 Divers.
 
-![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-FFFFFF?style=for-the-badge&logo=notion&logoColor=black) ![SublimeText](https://img.shields.io/badge/SublimeText-000000?style=for-the-badge&logo=SublimeText&logoColor=orange) ![notepad++](https://img.shields.io/badge/notepad++-99C96E?style=for-the-badge&logo=notepadplusplus&logoColor=black) ![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-FFFFFF?style=for-the-badge&logo=notion&logoColor=black) ![SublimeText](https://img.shields.io/badge/SublimeText-000000?style=for-the-badge&logo=SublimeText&logoColor=orange) ![notepad++](https://img.shields.io/badge/notepad++-99C96E?style=for-the-badge&logo=notepadplusplus&logoColor=black) ![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white) ![Joplin](https://img.shields.io/badge/Joplin-043873?style=for-the-badge&logo=Joplin&logoColor=white)
 
 ## 🗄 Serveur.
 
@@ -56,7 +58,7 @@
 
 ### ☁ Cloud.
 
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-2274B8?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-2274B8?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Scaleway](https://img.shields.io/badge/Scaleway-774ba6?style=for-the-badge&logo=Scaleway&logoColor=white)
 
 ### 📁Base de données.
 
@@ -68,13 +70,13 @@
 
 ## 💾 Systèmes d'exploitation.
 
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)  ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)  ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-DE470E?style=for-the-badge&logo=Ubuntu&logoColor=white)  ![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white)  ![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)  ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![Fedora](https://img.shields.io/badge/Fedora-007bff?logo=Fedora&logoColor=fff&style=for-the-badge) ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge) ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-DE470E?style=for-the-badge&logo=Ubuntu&logoColor=white) ![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white) ![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ## 🌍 Navigateurs internet.
 
-![Vivaldi](https://img.shields.io/badge/Vivaldi-EF3939?style=for-the-badge&logo=Vivaldi&logoColor=white)  ![Edge](https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white)  ![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
+![Vivaldi](https://img.shields.io/badge/Vivaldi-EF3939?style=for-the-badge&logo=Vivaldi&logoColor=white) ![Edge](https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white) ![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
 
 ## 🛠 Git.
 
-![Gitea](https://img.shields.io/badge/Gitea-34495E?style=for-the-badge&logo=gitea&logoColor=5D9425)  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)  ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-fc6d26.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 

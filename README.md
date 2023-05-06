@@ -1,6 +1,6 @@
 # Hi there 👋
 
-> Bonjour à toi ! 👋 Je suis Jean-Baptiste, j'ai 21 ans, étudiant.
+> Bonjour à toi ! 👋 Je suis Jean-Baptiste, j'ai 22 ans, étudiant.
 
 - 📚 Étudiant en alternance en tant qu'administrateur système et réseaux.
 - 🧩 Passionné d’informatique et de transports.
@@ -30,7 +30,7 @@
 
 ### 📠 Bureautique.
 
-![MS](https://img.shields.io/badge/Office365-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white) ![onlyoffice](https://img.shields.io/badge/onlyoffice-FF642E?style=for-the-badge&logo=onlyoffice&logoColor=white) ![nextcloud](https://img.shields.io/badge/nextcloud-0080C7?style=for-the-badge&logo=nextcloud&logoColor=white) 
+![MS](https://img.shields.io/badge/Office365-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white) ![Google](https://img.shields.io/badge/Google_workspace-4285F4?style=for-the-badge&logo=google&logoColor=white) ![onlyoffice](https://img.shields.io/badge/onlyoffice-FF642E?style=for-the-badge&logo=onlyoffice&logoColor=white) ![nextcloud](https://img.shields.io/badge/nextcloud-0080C7?style=for-the-badge&logo=nextcloud&logoColor=white) 
 
 ### 👩‍💻 IDE.
 
@@ -46,27 +46,28 @@
 
 ### 📃 Divers.
 
-![Notion](https://img.shields.io/badge/Notion-FFFFFF?style=for-the-badge&logo=notion&logoColor=black) ![SublimeText](https://img.shields.io/badge/SublimeText-000000?style=for-the-badge&logo=SublimeText&logoColor=orange) ![notepad++](https://img.shields.io/badge/notepad++-99C96E?style=for-the-badge&logo=notepadplusplus&logoColor=black) ![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white) ![Joplin](https://img.shields.io/badge/Joplin-043873?style=for-the-badge&logo=Joplin&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-FFFFFF?style=for-the-badge&logo=notion&logoColor=black) ![SublimeText](https://img.shields.io/badge/SublimeText-000000?style=for-the-badge&logo=SublimeText&logoColor=orange) ![notepad++](https://img.shields.io/badge/notepad++-99C96E?style=for-the-badge&logo=notepadplusplus&logoColor=black) ![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white) ![Joplin](https://img.shields.io/badge/Joplin-043873?style=for-the-badge&logo=Joplin&logoColor=white) ![Obsidian](https://img.shields.io/badge/Obsidian-4a37a0?style=for-the-badge&logo=Obsidian&logoColor=white)
+
 
 ## 🗄 Serveur.
 
 ### 📌Virtualisation et conteneurisation.
 
-![Proxmox](https://img.shields.io/badge/Proxmox-E57000.svg?style=for-the-badge&logo=Proxmox&logoColor=white) ![Vmware](https://img.shields.io/badge/VMWare-0C688D.svg?style=for-the-badge&logo=VMWare&logoColor=white) ![HyperV](https://img.shields.io/badge/HyperV-00ADEF.svg?style=for-the-badge&logo=microsoft&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Proxmox](https://img.shields.io/badge/Proxmox-E57000.svg?style=for-the-badge&logo=Proxmox&logoColor=white) ![Vmware](https://img.shields.io/badge/VMWare-0C688D.svg?style=for-the-badge&logo=VMWare&logoColor=white) ![HyperV](https://img.shields.io/badge/HyperV-00ADEF.svg?style=for-the-badge&logo=microsoft&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Nomad](https://img.shields.io/badge/Nomad-00bc7f?style=for-the-badge&logo=nomad&logoColor=white)
 
 
 
 ### ☁ Cloud.
 
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-2274B8?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Scaleway](https://img.shields.io/badge/Scaleway-774ba6?style=for-the-badge&logo=Scaleway&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-2274B8?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Scaleway](https://img.shields.io/badge/Scaleway-774ba6?style=for-the-badge&logo=Scaleway&logoColor=white) ![OVH](https://img.shields.io/badge/OVH-000c8c?style=for-the-badge&logo=OVH&logoColor=white)
 
 ### 📁Base de données.
 
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-00758F.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-00758F.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-30628a.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white) 
 
 ### 🌍Serveur web.
 
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![APACHE](https://img.shields.io/badge/apache%20-%23D42029.svg?&style=for-the-badge&logo=apache&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![APACHE](https://img.shields.io/badge/apache%20-%23D42029.svg?&style=for-the-badge&logo=apache&logoColor=white) ![Caddy](https://img.shields.io/badge/Caddy%20-3ac4f1.svg?&style=for-the-badge&logo=Caddy&logoColor=white)
 
 ## 💾 Systèmes d'exploitation.
 

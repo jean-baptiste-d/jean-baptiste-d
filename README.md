@@ -7,40 +7,44 @@
 - 📞 Pour me contacter : [contact@jb-demaret.fr](mailto:contact@jb-demaret.fr "contact")
 - 🏙  Nord (59) - Lille
 - 🇫🇷  Je parle français et un peu anglais
-- 🧩 Plus spécialisé dans la partie système et réseaux que le développement.
 
 ![rikka.gif](rikka.gif)
 
 ## 🌍 Réseaux
 
-[![Site](https://img.shields.io/badge/Site_internet-3f5c61?style=for-the-badge&logo=html5&logoColor=white)](https://jb-demaret.fr) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/c/ImIveooo)
-
+[![Site](https://img.shields.io/badge/Site_internet-3f5c61?style=for-the-badge&logo=html5&logoColor=white)](https://jb-demaret.fr)
 ## 📓 Compétences
 
-### ☁ Cloud et automatisation
+### ☁ Cloud 
 
-![PowerShell  Script](https://img.shields.io/badge/PowerShell_script-%230078D4.svg?style=for-the-badge&logo=powershell&logoColor=white) ![cloudinit](https://img.shields.io/badge/cloudinit%20-DE470E.svg?&style=for-the-badge&logo=iCloud&logoColor=white) ![terraform](https://img.shields.io/badge/terraform%20-844fba.svg?&style=for-the-badge&logo=terraform&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![ansible](https://img.shields.io/badge/ansible%20-e00.svg?&style=for-the-badge&logo=ansible&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-2274B8?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Scaleway](https://img.shields.io/badge/Scaleway-774ba6?style=for-the-badge&logo=Scaleway&logoColor=white) ![OVH](https://img.shields.io/badge/OVH-000c8c?style=for-the-badge&logo=OVH&logoColor=white) ![GITLAB-CI](https://img.shields.io/badge/GITLAB_CI-fc6d26?style=for-the-badge&logo=gitlab&logoColor=white)
+![Scaleway](https://img.shields.io/badge/Scaleway-774ba6?style=for-the-badge&logo=Scaleway&logoColor=white) ![OVH](https://img.shields.io/badge/OVH-000c8c?style=for-the-badge&logo=OVH&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Microsoft Azure](https://img.shields.io/badge/Azure-2274B8?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
+
+### 🪛 Automatisation
+
+ ![cloudinit](https://img.shields.io/badge/cloudinit%20-DE470E.svg?&style=for-the-badge&logo=iCloud&logoColor=white) ![terraform](https://img.shields.io/badge/terraform%20-844fba.svg?&style=for-the-badge&logo=terraform&logoColor=white) ![ansible](https://img.shields.io/badge/ansible%20-e00.svg?&style=for-the-badge&logo=ansible&logoColor=white)  ![GITLAB-CI](https://img.shields.io/badge/GITLAB_CI-fc6d26?style=for-the-badge&logo=gitlab&logoColor=white)  ![GITHUB-ACTION](https://img.shields.io/badge/GITHUB_ACTIONS-303030?style=for-the-badge&logo=github&logoColor=white)
+
 
 
 ### 💻 Langages de programation
 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JAVASCRIPT](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![PowerShell  Script](https://img.shields.io/badge/PowerShell_script-%230078D4.svg?style=for-the-badge&logo=powershell&logoColor=white)
 
-### 📌Virtualisation et conteneurisation.
+### 📌Virtualisation et conteneurisation
 
 ![Proxmox](https://img.shields.io/badge/Proxmox-E57000.svg?style=for-the-badge&logo=Proxmox&logoColor=white) ![Vmware](https://img.shields.io/badge/VMWare-0C688D.svg?style=for-the-badge&logo=VMWare&logoColor=white) ![HyperV](https://img.shields.io/badge/HyperV-00ADEF.svg?style=for-the-badge&logo=microsoft&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Nomad](https://img.shields.io/badge/Nomad-00bc7f?style=for-the-badge&logo=nomad&logoColor=white)
 
-### 📁Base de données.
+### 📁Base de données
 
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-00758F.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-30628a.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white) 
 
-### 🌍Serveur web et loadbalancer.
+### 🌍Serveur web et loadbalancer
 
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![APACHE](https://img.shields.io/badge/apache%20-%23D42029.svg?&style=for-the-badge&logo=apache&logoColor=white) ![Caddy](https://img.shields.io/badge/Caddy%20-3ac4f1.svg?&style=for-the-badge&logo=Caddy&logoColor=white) ![traefik](https://img.shields.io/badge/Traefik%20-00bdd6.svg?&style=for-the-badge&logo=traefikproxy&logoColor=white) ![haproxy](https://img.shields.io/badge/haproxy%20-224f57.svg?&style=for-the-badge&logo=Haproxy&logoColor=white)
 
 ### 📚 Autres
 
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![CODEIGNITER](https://img.shields.io/badge/codeigniter%20-%23F5792A.svg?&style=for-the-badge&logo=codeigniter&logoColor=white) ![NODEJS](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white) ![BOOTSTRAP](https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
 ## 💽 Logiciels
 
@@ -70,7 +74,7 @@
 
 ### 🛠 Git
 
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jean-baptiste-d) [![GitLab](https://img.shields.io/badge/gitlab-fc6d26.svg?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/jean-baptiste-d)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jean-baptiste-d) [![GitLab](https://img.shields.io/badge/gitlab-fc6d26.svg?style=for-the-badge&logo=gitlab&logoColor=white)]()
 
 
 ### 📃 Divers
